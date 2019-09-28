@@ -1,0 +1,10 @@
+How to Do truncate table for New setupment
+=============================================
+
+Just you have to do truncate only 3 table 
+
+copy and paste into New query  than Press F5
+================================
+truncate table  [Pointofsale].[dbo].[tbl_sales]
+truncate table [Pointofsale].[dbo].tbl_salespaid 
+truncate table [Pointofsale].[dbo].tbl_SalesPayment
